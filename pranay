@@ -1,0 +1,42 @@
+
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>sbka bappcss</title>
+    <style>
+        h1 {
+           
+            font-family: 'Courier New', Courier, monospace;
+            text-align: center;
+            text-decoration: dashed;
+            text-shadow:2px 2px rgb(128, 255, 0) ;
+        }
+
+        label {
+            co red;
+        }
+    </style>
+
+</head>
+
+<body>
+    <h1> Youtub</h1>
+    <p>pranay dada</p>
+    <form size="2px">
+        <label for="name" style="font-style: italic;"> <b>name</b></label>
+        <input type="text"><br>
+        <label for="age">age</label>
+        <input type="date">
+    </form>
+
+    <p style="color:red"yahuuuu> </P>
+    <P style="text-decoration: line-through;">bapaa</P>
+    <P style="text-decoration: overline">bappa</P>
+
+
+</body>
+
+
+
+
